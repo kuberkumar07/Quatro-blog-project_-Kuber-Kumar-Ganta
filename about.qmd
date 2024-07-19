@@ -1,0 +1,35 @@
+---
+title: "About"
+image: KKG.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kumar-g-526059289/
+    - icon: github
+      text: Github
+      href: https://github.com/kuberkumar07/
+---
+
+# About Me
+
+Welcome to my corner of the data universe! I'm Kuber Kumar Ganta, a dedicated data scientist fueled by curiosity and driven by the desire to harness data's power for real-world impact. With over a year of experience, I specialize in extracting, cleaning, and storing data from various sources like URLs, ensuring its reliability for informed decision-making.
+
+## Professional Journey
+
+My journey extends beyond data manipulation and database management. I thrive on transforming raw data into actionable insights through:
+
+•⁠  ⁠*Data Analysis and Visualization:* Leveraging Python, SQL, and advanced visualization tools to unravel hidden patterns and trends.
+  
+•⁠  ⁠*Machine Learning Applications:* Implementing predictive models to forecast outcomes and optimize processes, empowering smarter decisions.
+
+Throughout my career, I've cultivated expertise in data wrangling, statistical analysis, and problem-solving, consistently delivering solutions that drive business success.
+
+## What to Expect
+
+This blog is my platform to share practical insights, lessons learned, and thought-provoking discussions on the evolving landscape of data science. Join me as we navigate through the complexities of data and uncover its potential together.
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/kumar-g-526059289), or explore my projects on [GitHub](https://github.com/kuberkumar07).
+
+Let's dive into the data-driven world, where every bit of information tells a story waiting to be discovered.

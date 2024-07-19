@@ -1,0 +1,59 @@
+---
+title: "Kuber Kumar Ganta - Data Scientist"
+author: "Kuber Kumar Ganta"
+date: "2024-06-28"
+format: html
+css: style.css
+image: KKG.jpg
+---
+
+# Kuber Kumar Ganta
+*Data Scientist*
+
+---
+
+*Contact Information:*
+•⁠  ⁠Location: Alpharetta, United States
+•⁠  ⁠Phone: (904) 649-8439
+•⁠  ⁠Email: [gantakuber7@gmail.com](mailto:gantakuber7@gmail.com)
+•⁠  ⁠LinkedIn: [linkedin.com/in/kumar-g-526059289](https://linkedin.com/in/kumar-g-526059289)
+
+---
+
+## Profile
+
+Data Scientist with 2 years of experience in Data Extraction, Modeling, Wrangling, Statistical Modeling, Data Mining, Machine Learning, and Visualization. Skilled in Python, Pandas, SQLAlchemy, PostgreSQL, Hive, Tableau, and Power BI. Proven expertise in managing the data science project lifecycle, from data acquisition to visualization. Strong domain knowledge in Retail and Banking. Experienced in AWS services (EC2, S3, EMR) for large-scale data processing. Engaged in Agile/SCRUM methodologies for timely project delivery.
+
+---
+
+## Skills
+•⁠  ⁠*Programming Languages:* Python, SQL
+•⁠  ⁠*Data Processing & Analysis:* Pandas, SQLAlchemy, Hive
+•⁠  ⁠*Databases:* PostgreSQL
+•⁠  ⁠*Visualization Tools:* Tableau, Power BI
+•⁠  ⁠*Other Tools:* Docker, Agile Methodologies
+
+---
+
+## Employment History
+
+### Data Scientist, Tek Leaders, Alpharetta GA
+*June 2023 - Present*
+•⁠  ⁠Developed an automated data processing pipeline using Python, Pandas, and SQLAlchemy to streamline data extraction, cleaning, and storage processes.
+•⁠  ⁠Implemented a function to download Excel files from a specified URL, read the contents into Pandas DataFrames, and clean the data by removing duplicates and handling missing values.
+•⁠  ⁠Utilized PostgreSQL to store the processed data and created SQLAlchemy engine for efficient database interactions.
+•⁠  ⁠Designed a process to dynamically create tables in PostgreSQL for each sheet in the Excel file and populate them with cleaned data.
+•⁠  ⁠Performed data analysis using Hive to retrieve data from Hadoop clusters and SQL to retrieve data from RedShift.
+•⁠  ⁠Provisioned virtual clusters on AWS, including services like EC2, S3, and EMR, to support large-scale data processing and analysis.
+•⁠  ⁠Created rich data visualizations to transform data into human-readable formats using Tableau and Power BI.
+•⁠  ⁠Engaged in Agile/SCRUM methodologies to ensure timely delivery of data science projects.
+
+---
+
+## Education
+
+### Master's, Wilmington University, Delaware
+*January 2022 - April 2023*
+
+### Bachelor's, KL University, Vijayawada
+*June 2017 - June 2021*

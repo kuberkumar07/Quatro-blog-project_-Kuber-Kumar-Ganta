@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Kuber Kumar Ganta"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/kuberkumar07/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/kumar-g-526059289/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
